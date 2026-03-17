@@ -35,5 +35,6 @@ Objective: To analyze sales data and identify key performance indicators (KPIs),
 - 'dataset.csv' — Dataset used
 - 'blinkit_dashboard.pdf' — Dashboard pdf
 
-Author
+Author,
+
 Shalmalee Thakur
