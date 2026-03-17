@@ -36,5 +36,4 @@ Objective: To analyze sales data and identify key performance indicators (KPIs),
 - 'blinkit_dashboard.pdf' — Dashboard pdf
 
 Author,
-
 Shalmalee Thakur
