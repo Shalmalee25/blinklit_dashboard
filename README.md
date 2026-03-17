@@ -10,13 +10,13 @@ Objective: To analyze sales data and identify key performance indicators (KPIs),
 - Data Cleaning & Transformation
 - Data Visualization
 
-- 📈 Key KPIs
+📈 Key KPIs
 - Total Sales
 - Average Sales
 - Number of Items Sold
 - Average Customer Rating
 
-- 📌 Dashboard Features
+📌 Dashboard Features
 - Sales trend analysis by outlet establishment year
 - Sales comparison across outlet sizes and locations
 - Item type performance analysis
@@ -24,13 +24,13 @@ Objective: To analyze sales data and identify key performance indicators (KPIs),
 - Interactive filters for outlet location, size, and item type
 - Outlet-wise performance table with KPIs
 
-- 🔍 Key Insights
+🔍 Key Insights
 - Tier 3 outlets contribute the highest sales revenue.
 - Fruits and snack items generate the largest share of sales.
 - Medium-sized outlets show strong overall performance.
 - Customer ratings remain consistently high across outlet types.
 
-- 📂 Files Included
+📂 Files Included
 - 'blinkit_dashboard.pbix' — Power BI dashboard file
 - 'dataset.csv' — Dataset used
 - 'blinkit_dashboard.pdf' — Dashboard pdf
